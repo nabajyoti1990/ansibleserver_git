@@ -2,5 +2,11 @@ Hello
 I am Nabajyoti
 this is line3 done from remote repo
 this is line4 done from remote repo
+<<<<<<< HEAD
 
 How do you do Mr Nabajyoti.
+=======
+this is line5 done from remote repo
+
+
+>>>>>>> 4afa32c862c932f9e1c6b970de304ac027a18cb1
